@@ -1,8 +1,8 @@
 # python_assignmnets
-Sylani python assignments
+Sylani python assignments..
 <br>
 Hey! I'm Qazi Najam.
 <br>
-I'm a studying in SMIT.
+I'm a learning python from SMIT.
 <br>
 All my assignments are in this repo.
